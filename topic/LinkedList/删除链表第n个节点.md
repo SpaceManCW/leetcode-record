@@ -1,6 +1,9 @@
 ### 2024.4.22 删除链表倒数第n个节点  https://leetcode.cn/problems/remove-nth-node-from-end-of-list/description/
+
 ---
+
 ### JS
+
 ```JS
 /**
  * Definition for singly-linked list.
@@ -37,9 +40,34 @@ var removeNthFromEnd = function(head, n) {
     return head
 };
 ```
+
+
 **时间复杂度:** `O(n)`
 
 **空间复杂度:** `O(1)`
 
+**双指针解法:**
+
+```js
+var removeNthFromEnd = function(head, n) {
+    let dummy = new ListNode(0);
+    dummy.next = head;
+    let first = dummy;
+    let second = dummy;
+    for(let i=0; i<=n; i++) {
+        first = first.next
+    }
+    while(first) {
+        first = first.next
+        second = second.next
+    }
+    second.next = second.next.next
+    return dummy.next
+};
+```
+
+注意尽量创建空节点连接头节点，如果n等于链表长度，for循环结束可能first直接为null，注意是循环了n+1次，当快节点指向null的时候，慢节点正好在待删除节点前一个节点
+
 ---
+
 ### Java
