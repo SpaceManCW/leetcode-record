@@ -71,3 +71,22 @@ var removeNthFromEnd = function(head, n) {
 ---
 
 ### Java
+> 注意第二个while循环的截止条件，还有删除第一个节点的边界问题
+```text
+            ListNode l = head;
+            ListNode l2 = head;
+            if (n <= 0) return head;
+            for (int i = 0; i < n; i++) {
+                if (l == null) {
+                    return head;
+                }
+                l = l.next;
+            }
+        if (l == null) return head.next;
+            while (l.next != null)   {
+                l = l.next;
+                l2 = l2.next;
+            }
+            l2.next = l2.next.next;
+            return head;
+```
