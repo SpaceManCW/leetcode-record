@@ -1,6 +1,6 @@
 <div align=center>
   <a href="https://leetcode.cn/">
-    <img src="image/bg.png" width="550">
+    <img src="image/icon.png" width="550">
   </a>
 </div>
 
