@@ -21,3 +21,4 @@
    2. 前序遍历  https://leetcode.cn/problems/binary-tree-preorder-traversal/description/
    3. 后序遍历  https://leetcode.cn/problems/binary-tree-postorder-traversal/description/
 10. 2024.4.26  在排序数组中查找元素的第一个和最后一个位置  https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/description/
+11. 2024.4.27  二分查找  https://leetcode.cn/problems/binary-search/
