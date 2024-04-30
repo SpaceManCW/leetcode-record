@@ -24,3 +24,4 @@
 11. 2024.4.27  二分查找  https://leetcode.cn/problems/binary-search/
 12. 2024.4.28 二叉树的层序遍历  https://leetcode.cn/problems/binary-tree-level-order-traversal/description/
 13. 2024.4.29 二叉树的右视图  https://leetcode.cn/problems/binary-tree-right-side-view/description/
+14. 2024.4.29 无重复字符的最长子串  https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/
