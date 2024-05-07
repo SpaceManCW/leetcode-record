@@ -26,3 +26,4 @@
 13. 2024.4.29 二叉树的右视图  https://leetcode.cn/problems/binary-tree-right-side-view/description/
 14. 2024.4.30 无重复字符的最长子串  https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/
 15. 2024.5.6 找出字符串中第一个匹配项的下标  https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
+16. 2024.5.7 合并区间  https://leetcode.cn/problems/merge-intervals/description/
