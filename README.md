@@ -28,3 +28,4 @@
 15. 2024.5.6 找出字符串中第一个匹配项的下标  https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
 16. 2024.5.7 合并区间  https://leetcode.cn/problems/merge-intervals/description/
 17. 2024.5.8 反转链表 II  https://leetcode.cn/problems/reverse-linked-list-ii/description/
+18. 2024.5.9 搜索插入位置  https://leetcode.cn/problems/search-insert-position/description/
