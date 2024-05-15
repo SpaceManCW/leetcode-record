@@ -33,3 +33,5 @@
 20. 2024.5.11 检验二叉搜索树  https://leetcode.cn/problems/validate-binary-search-tree/description/
 21. 2024.5.13 环形链表  https://leetcode.cn/problems/linked-list-cycle/description/
 22. 2024.5.14 计算二叉树的深度 https://leetcode.cn/problems/er-cha-shu-de-shen-du-lcof/description/
+23. 2024.5.15 丑数 https://leetcode.cn/problems/ugly-number/
+
