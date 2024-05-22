@@ -38,3 +38,4 @@
 25. 2024.5.17 数组去重 https://leetcode.cn/problems/remove-duplicates-from-sorted-array/description/
 26. 2024.5.20 最后一个单词的长度  https://leetcode.cn/problems/length-of-last-word/
 27. 2024.5.21 最长公共前缀  https://leetcode.cn/problems/longest-common-prefix/
+28. 2024.5.22 反转链表 https://leetcode.cn/problems/reverse-linked-list/description/
