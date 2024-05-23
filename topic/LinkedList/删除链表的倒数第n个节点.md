@@ -32,3 +32,22 @@ var removeNthFromEnd = function(head, n) {
 ---
 
 ### Java
+```java
+class Solution {
+    public ListNode removeNthFromEnd(ListNode head, int n) {
+            ListNode h = head;
+            ListNode h2 = new ListNode(0);
+            ListNode res = h2;
+            h2.next = head;
+            for (int i = 0; i < n; i++) {
+                h = h.next;
+            }
+            while (h != null) {
+                h = h.next;
+                h2 = h2.next;
+            }
+            h2.next = h2.next.next;
+            return res.next;
+        }
+}
+```
