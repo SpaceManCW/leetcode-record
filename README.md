@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<H2 align="center">leetcode算法练习-每日一题</H2>
+`<H2 align="center">`leetcode算法练习-每日一题`</H2>`
 
 每日一题，一题一文件进行代码记录和思路总结，包含 Java 和 JavaScript两种语言实现
 
@@ -39,3 +39,4 @@
 26. 2024.5.20 最后一个单词的长度  https://leetcode.cn/problems/length-of-last-word/
 27. 2024.5.21 最长公共前缀  https://leetcode.cn/problems/longest-common-prefix/
 28. 2024.5.22 反转链表 https://leetcode.cn/problems/reverse-linked-list/description/
+29. 2024.5.23  删除链表的倒数第n个节点 https://leetcode.cn/problems/remove-nth-node-from-end-of-list/description/
