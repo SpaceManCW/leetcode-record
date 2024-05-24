@@ -40,3 +40,4 @@
 27. 2024.5.21 最长公共前缀  https://leetcode.cn/problems/longest-common-prefix/
 28. 2024.5.22 反转链表 https://leetcode.cn/problems/reverse-linked-list/description/
 29. 2024.5.23  删除链表的倒数第n个节点 https://leetcode.cn/problems/remove-nth-node-from-end-of-list/description/
+30. 2024.5.24 链表相交 https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/description/
