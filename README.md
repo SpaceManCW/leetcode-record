@@ -43,3 +43,4 @@
 30. 2024.5.24 链表相交 https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/description/
 31. 2024.5.27 回文链表 https://leetcode.cn/problems/aMhZSa/description/
 32. 2024.5.28 二叉树中的第K大层和 https://leetcode.cn/problems/kth-largest-sum-in-a-binary-tree/description/
+33. 2024.5.29 对称树 https://leetcode.cn/problems/symmetric-tree/description/
