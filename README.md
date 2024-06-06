@@ -51,3 +51,4 @@
 38. 2024.6.3 二叉树直径 https://leetcode.cn/problems/diameter-of-binary-tree/
 39. 2024.6.4 找到字符串中所有字母异位词 https://leetcode.cn/problems/find-all-anagrams-in-a-string
 40. 2024.6.5 反转二叉树 https://leetcode.cn/problems/invert-binary-tree/description/
+41. 2024.6.6 轮转数组 https://leetcode.cn/problems/rotate-array
